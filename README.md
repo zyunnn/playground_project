@@ -1,6 +1,6 @@
-# y-intercept_coding-test
+# Playground project
 
-This repository contains solution for the Zhiyun's coding test as part of the summer internship recruitment process.
+This repository is a small study on basic technical indicators for generating trading signals.
 
 
 ## 1. How to use
